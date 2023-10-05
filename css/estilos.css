@@ -1,0 +1,132 @@
+.una{
+    margin: auto;
+    text-align: center;
+}
+.una img{
+    width: 700px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+ul li{
+    display: inline;
+    color: black;
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-bottom: 60px;
+    padding: 0 60px;
+}
+.fb img{
+    width: 40px;
+    height: 40px;
+}
+.fb{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    left: 0;
+    top: 47%;
+}
+.ig img{
+    width: 40px;
+    height: 40px;
+}
+.ig{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    left: 0;
+    top: 54%;
+}
+.wsp{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    left: 0%;
+    top: 40%;
+}
+.wsp img{
+    height: 40px;
+    width: 40px;
+    background-color: green;
+}
+.casaa img{
+    width: 700px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fondo{
+    background-color: lightcoral;
+}
+.fiest{
+    margin: auto;
+    text-align: center;
+}
+.fiest img{
+    width: 700px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fiesta11{
+    margin: auto;
+    text-align: center;
+}
+.fiesta11 img{
+    width: 700px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fiesta22{
+    margin: auto;
+    text-align: center;
+}
+.fiesta22 img{
+    width: 800px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fiesta33{
+    margin: auto;
+    text-align: center;
+}
+.fiesta33 img{
+    width: 900px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.padre{
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.padre img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.macrame{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 200px;
+}
+.tapices{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 200px;
+}
+.crudo{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 200px;
+}
+.carousel-inner img{
+    width: 500px;
+    height: 500px;
+}
+.text-center{
+    height: 200px;
+}
